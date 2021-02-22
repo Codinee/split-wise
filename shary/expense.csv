@@ -1,0 +1,7 @@
+Items,Person,Spent,Weightage
+Item1,Person1,10,1
+,Person2,0,1
+,Person3,10,1
+Item2,Person1,20,2
+,Person2,10,2
+,Person4,20,1
